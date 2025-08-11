@@ -3,4 +3,3 @@ b=-3
 c=28
 T=a*t**2 + b*t+c
 printf(f"predicted temperature at t={t}:{T:.2f}'C")
-
